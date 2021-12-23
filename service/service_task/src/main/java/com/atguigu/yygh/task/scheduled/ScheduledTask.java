@@ -7,11 +7,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
-/**
- * @author : xsh
- * @create : 2021-04-19 - 1:15
- * @describe:
- */
 @Component
 @EnableScheduling
 public class ScheduledTask {

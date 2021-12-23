@@ -22,11 +22,6 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-03-29 - 0:12
- * @describe:
- */
 @Service
 public class DictServiceImpl extends ServiceImpl<DictMapper, Dict> implements DictService {
 

@@ -7,11 +7,6 @@ import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-/**
- * @author : xsh
- * @create : 2021-04-17 - 21:38
- * @describe:
- */
 @FeignClient(value = "service-hosp")
 @Repository
 public interface HospitalFeignClient {

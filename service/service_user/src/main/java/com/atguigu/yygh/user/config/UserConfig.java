@@ -5,11 +5,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:18
- * @describe:
- */
 @Configuration
 @MapperScan("com.atguigu.yygh.user.mapper")
 public class UserConfig extends WebMvcConfigurerAdapter {

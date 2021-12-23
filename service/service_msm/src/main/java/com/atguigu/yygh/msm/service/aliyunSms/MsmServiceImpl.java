@@ -15,11 +15,6 @@ import org.springframework.stereotype.Service;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-11 - 19:32
- * @describe:
- */
 @Service
 public class MsmServiceImpl implements MsmService {
     @Override

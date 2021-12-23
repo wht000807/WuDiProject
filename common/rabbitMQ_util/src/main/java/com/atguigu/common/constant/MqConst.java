@@ -1,10 +1,6 @@
 package com.atguigu.common.constant;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 1:17
- * @describe: MQ常量
- */
+
 public class MqConst {
     /**
      * 预约下单

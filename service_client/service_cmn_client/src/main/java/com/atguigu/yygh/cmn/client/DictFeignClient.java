@@ -4,11 +4,6 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-/**
- * @author : xsh
- * @create : 2021-04-04 - 15:43
- * @describe: 数据字典API接口
- */
 @FeignClient("service-cmn")
 public interface DictFeignClient {
 

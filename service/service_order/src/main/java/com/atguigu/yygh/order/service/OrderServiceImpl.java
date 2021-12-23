@@ -32,11 +32,6 @@ import java.util.Map;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-/**
- * @author : xsh
- * @create : 2021-04-14 - 1:11
- * @describe:
- */
 @Service
 public class OrderServiceImpl extends
         ServiceImpl<OrderInfoMapper, OrderInfo> implements OrderService {

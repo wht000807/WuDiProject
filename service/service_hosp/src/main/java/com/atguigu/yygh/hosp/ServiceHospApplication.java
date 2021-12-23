@@ -6,11 +6,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.ComponentScan;
 
-/**
- * @author : xsh
- * @create : 2021-03-26 - 0:37
- * @describe:
- */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.atguigu")
 @EnableFeignClients(basePackages = "com.atguigu")

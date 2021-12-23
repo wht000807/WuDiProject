@@ -1,15 +1,10 @@
 package com.atguigu.yygh.oss.config;
 
-import org.mybatis.spring.annotation.MapperScan;
+
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:18
- * @describe:
- */
 @Configuration
 public class OssConfig extends WebMvcConfigurerAdapter {
 

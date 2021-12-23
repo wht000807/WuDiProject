@@ -12,13 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.List;
 
-/**
- * <p>
- * Department
- * </p>
- *
- * @author qy
- */
+
 @Data
 @ApiModel(description = "Department")
 @Document("Department")

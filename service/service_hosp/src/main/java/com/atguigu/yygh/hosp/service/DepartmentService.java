@@ -8,11 +8,6 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-01 - 0:52
- * @describe:
- */
 public interface DepartmentService {
 
     /**

@@ -18,11 +18,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-14 - 1:09
- * @describe:
- */
 @Api(tags = "订单接口")
 @RestController
 @RequestMapping("/api/order/orderInfo")

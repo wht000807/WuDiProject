@@ -15,11 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author : xsh
- * @create : 2021-04-11 - 19:31
- * @describe:
- */
 @RestController
 @RequestMapping("/api/msm")
 public class MsmApiController {

@@ -14,11 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 18:36
- * @describe:
- */
 @RestController
 @RequestMapping("/api/order/weixin")
 public class WeixinController {

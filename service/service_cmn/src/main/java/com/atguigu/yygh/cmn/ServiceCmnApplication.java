@@ -5,11 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.context.annotation.ComponentScan;
 
-/**
- * @author : xsh
- * @create : 2021-03-29 - 0:06
- * @describe:
- */
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.atguigu"})
 @EnableDiscoveryClient

@@ -14,11 +14,6 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-03-29 - 0:13
- * @describe:
- */
 @Api(description = "数据字典接口")
 @RestController
 @RequestMapping("/admin/cmn/dict")

@@ -16,11 +16,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 4:04
- * @describe:
- */
 @Api(tags = "订单接口")
 @RestController
 @RequestMapping("/admin/order/orderInfo")

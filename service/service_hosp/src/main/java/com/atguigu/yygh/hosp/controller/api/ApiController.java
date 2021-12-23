@@ -24,11 +24,6 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-03-31 - 23:18
- * @describe:
- */
 @Api(tags = "医院管理API接口")
 @RestController
 @RequestMapping("/api/hosp")

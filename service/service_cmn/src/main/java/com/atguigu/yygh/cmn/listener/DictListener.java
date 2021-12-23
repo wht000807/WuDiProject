@@ -7,11 +7,6 @@ import com.atguigu.yygh.model.cmn.Dict;
 import com.atguigu.yygh.vo.cmn.DictEeVo;
 import org.springframework.beans.BeanUtils;
 
-/**
- * @author : xsh
- * @create : 2021-03-29 - 22:53
- * @describe:
- */
 public class DictListener extends AnalysisEventListener<DictEeVo> {
 
     //构造方法注入

@@ -29,11 +29,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 18:31
- * @describe: http请求客户端
- */
 public class HttpClient {
     private String url;
     private Map<String, String> param;

@@ -5,11 +5,7 @@ import org.springframework.util.StringUtils;
 
 import java.util.Date;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:38
- * @describe:
- */
+
 public class JwtHelper {
     private static long tokenExpiration = 24*60*60*1000;
     private static String tokenSignKey = "123456";

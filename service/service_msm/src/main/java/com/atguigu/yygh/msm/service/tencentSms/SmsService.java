@@ -2,11 +2,6 @@ package com.atguigu.yygh.msm.service.tencentSms;
 
 import com.atguigu.yygh.vo.msm.MsmVo;
 
-/**
- * @author : xsh
- * @create : 2021-04-11 - 19:56
- * @describe:
- */
 public interface SmsService {
 
     /**

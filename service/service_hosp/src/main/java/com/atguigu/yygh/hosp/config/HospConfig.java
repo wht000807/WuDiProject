@@ -6,11 +6,6 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-/**
- * @author : xsh
- * @create : 2021-03-28 - 2:52
- * @describe:
- */
 @Configuration
 public class HospConfig extends WebMvcConfigurerAdapter{
 

@@ -12,11 +12,6 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 1:24
- * @describe: 封装mq监听器
- */
 @Component
 public class SmsReceiver {
     @Autowired

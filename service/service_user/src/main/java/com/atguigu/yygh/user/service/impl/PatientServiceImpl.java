@@ -12,11 +12,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-04-13 - 3:09
- * @describe:
- */
 @Service
 public class PatientServiceImpl extends
         ServiceImpl<PatientMapper, Patient> implements PatientService {

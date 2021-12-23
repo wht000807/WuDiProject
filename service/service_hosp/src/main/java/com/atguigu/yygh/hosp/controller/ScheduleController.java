@@ -11,11 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-04 - 20:01
- * @describe:
- */
 @Api(tags = "医院排班接口")
 @RestController
 @RequestMapping("/admin/hosp/schedule")

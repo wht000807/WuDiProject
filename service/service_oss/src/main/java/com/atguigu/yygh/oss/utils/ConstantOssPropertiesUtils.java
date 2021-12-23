@@ -4,11 +4,6 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-/**
- * @author : xsh
- * @create : 2021-04-13 - 0:47
- * @describe:
- */
 @Component
 public class ConstantOssPropertiesUtils implements InitializingBean {
 

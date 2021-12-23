@@ -26,11 +26,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:15
- * @describe:
- */
 @Service
 public class UserInfoServiceImpl extends
         ServiceImpl<UserInfoMapper, UserInfo> implements UserInfoService {

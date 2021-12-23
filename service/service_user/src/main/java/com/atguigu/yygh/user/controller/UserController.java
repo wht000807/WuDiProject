@@ -15,11 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-13 - 22:10
- * @describe:
- */
 @RestController
 @RequestMapping("/admin/user")
 public class UserController {

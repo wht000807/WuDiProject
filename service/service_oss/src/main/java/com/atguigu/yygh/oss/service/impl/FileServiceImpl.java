@@ -12,11 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.UUID;
 
-/**
- * @author : xsh
- * @create : 2021-04-13 - 0:46
- * @describe:
- */
 @Service
 public class FileServiceImpl implements FileService {
     @Override

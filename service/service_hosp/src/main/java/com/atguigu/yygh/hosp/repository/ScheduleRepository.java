@@ -7,11 +7,6 @@ import org.springframework.stereotype.Repository;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-04-01 - 1:18
- * @describe:
- */
 @Repository
 public interface ScheduleRepository extends MongoRepository<Schedule,String> {
 

@@ -19,11 +19,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author qy
- *
- */
+
 @Api(tags = "医院管理接口")
 @RestController
 public class HospitalController {

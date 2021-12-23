@@ -34,11 +34,6 @@ import org.springframework.util.CollectionUtils;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * @author : xsh
- * @create : 2021-04-01 - 1:19
- * @describe:
- */
 @Service
 @Slf4j
 public class ScheduleServiceImpl extends

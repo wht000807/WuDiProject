@@ -6,11 +6,6 @@ import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-/**
- * @author : xsh
- * @create : 2021-04-14 - 1:19
- * @describe:
- */
 @FeignClient(value = "service-user")
 @Repository
 public interface PatientFeignClient {

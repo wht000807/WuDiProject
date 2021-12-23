@@ -17,11 +17,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-03-31 - 23:13
- * @describe:
- */
 @Service
 @Slf4j
 public class HospitalServiceImpl implements HospitalService {

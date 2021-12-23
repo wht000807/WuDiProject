@@ -13,11 +13,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:15
- * @describe:
- */
 @RestController
 @RequestMapping("/api/user")
 public class UserInfoApiController {

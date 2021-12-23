@@ -12,12 +12,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author : xsh
- * @create : 2021-04-04 - 14:51
- * @describe:
- */
-
 @Api(tags = "医院管理接口")
 @RestController
 @RequestMapping("/admin/hosp/hospital")

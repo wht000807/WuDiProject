@@ -16,11 +16,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Random;
 
-/**
- * @author : xsh
- * @create : 2021-03-26 - 23:09
- * @describe:
- */
 @Api(tags = "医院设置管理")
 @RestController
 @RequestMapping("/admin/hosp/hospitalSet")

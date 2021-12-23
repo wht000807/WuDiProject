@@ -4,11 +4,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-/**
- * @author : xsh
- * @create : 2021-04-05 - 22:29
- * @describe:
- */
 public class IpUtil {
     private static final String UNKNOWN = "unknown";
     private static final String LOCALHOST = "127.0.0.1";

@@ -24,11 +24,6 @@ import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-12 - 0:15
- * @describe:
- */
 @Controller
 @RequestMapping("/api/ucenter/wx")
 @Slf4j

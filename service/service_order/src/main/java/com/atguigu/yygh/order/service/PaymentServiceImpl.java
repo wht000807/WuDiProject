@@ -21,11 +21,6 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 18:34
- * @describe:
- */
 @Service
 public class PaymentServiceImpl extends
         ServiceImpl<PaymentInfoMapper, PaymentInfo> implements PaymentService {

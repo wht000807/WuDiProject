@@ -8,11 +8,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-19 - 2:01
- * @describe:
- */
 @FeignClient(value = "service-order")
 @Repository
 public interface OrderFeignClient {

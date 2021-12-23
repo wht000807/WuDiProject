@@ -17,11 +17,6 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 1:33
- * @describe: MQ监听器
- */
 @Component
 public class HospitalReceiver {
 

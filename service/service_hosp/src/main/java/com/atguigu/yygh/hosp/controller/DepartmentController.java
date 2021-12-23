@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-04-04 - 19:13
- * @describe:
- */
 @Api(tags = "医院科室接口")
 @RestController
 @RequestMapping("/admin/hosp/department")

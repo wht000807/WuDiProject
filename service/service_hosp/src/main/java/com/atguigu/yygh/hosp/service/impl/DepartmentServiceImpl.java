@@ -18,11 +18,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @author : xsh
- * @create : 2021-04-01 - 0:52
- * @describe:
- */
 @Service
 @Slf4j
 public class DepartmentServiceImpl implements DepartmentService {

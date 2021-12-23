@@ -6,11 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
 
-/**
- * @author : xsh
- * @create : 2021-04-11 - 19:36
- * @describe:
- */
 public class RandomUtil {
 
     private static final Random random = new Random();

@@ -11,13 +11,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * <p>
- * Dict
- * </p>
- *
- * @author qy
- */
+
 @Data
 @ApiModel(description = "数据字典")
 @TableName("dict")

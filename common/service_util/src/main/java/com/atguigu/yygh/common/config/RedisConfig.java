@@ -20,11 +20,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.lang.reflect.Method;
 import java.time.Duration;
 
-/**
- * @author : xsh
- * @create : 2021-03-29 - 23:12
- * @describe:
- */
+
 @Configuration
 @EnableCaching
 public class RedisConfig {

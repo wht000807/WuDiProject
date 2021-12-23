@@ -19,11 +19,6 @@ import reactor.core.publisher.Mono;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
-/**
- * @author : xsh
- * @create : 2021-04-11 - 23:02
- * @describe:
- */
 @Component
 public class AuthGlobalFilter implements GlobalFilter, Ordered {
 

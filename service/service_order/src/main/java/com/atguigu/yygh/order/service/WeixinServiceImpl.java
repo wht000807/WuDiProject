@@ -20,11 +20,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 18:35
- * @describe:
- */
 @Slf4j
 @Service
 public class WeixinServiceImpl implements WeixinService {

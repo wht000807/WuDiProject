@@ -11,11 +11,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author : xsh
- * @create : 2021-04-19 - 2:03
- * @describe:
- */
 @Api(tags = "统计管理接口")
 @RestController
 @RequestMapping("/admin/statistics")

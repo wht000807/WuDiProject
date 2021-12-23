@@ -8,11 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-/**
- * @author : xsh
- * @create : 2021-04-13 - 0:44
- * @describe:
- */
 @RestController
 @RequestMapping("/api/oss/file")
 public class FileApiController {

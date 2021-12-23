@@ -13,11 +13,7 @@ import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
-/**
- * @author : xsh
- * @create : 2021-04-19 - 1:19
- * @describe: MQ监听，监听定时任务发送的MQ信息 发送就医短信提醒
- */
+
 @Component
 public class OrderReceiver {
 

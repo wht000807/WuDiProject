@@ -6,11 +6,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.util.Map;
 
-/**
- * @author : xsh
- * @create : 2021-04-18 - 18:34
- * @describe:
- */
 public interface PaymentService extends IService<PaymentInfo> {
     /**
      * 保存交易记录

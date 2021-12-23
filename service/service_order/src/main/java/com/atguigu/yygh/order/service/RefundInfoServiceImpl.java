@@ -11,11 +11,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.Date;
 
-/**
- * @author : xsh
- * @create : 2021-04-19 - 0:01
- * @describe:
- */
 @Service
 public class RefundInfoServiceImpl extends ServiceImpl<RefundInfoMapper, RefundInfo> implements RefundInfoService {
 
